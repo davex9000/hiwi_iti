@@ -1,0 +1,19 @@
+# Trained weight checkpoints
+*.h5
+*.weights.h5
+ok
+ok.index
+ok.data-*
+checkpoint
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Claude Code
+.claude/
